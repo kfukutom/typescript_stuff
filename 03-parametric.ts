@@ -34,4 +34,4 @@ function broadcastAll<T extends Notification>(q: T[]) : void {
     }
 }
 
-export {};  // file as module
+export {}; // file as module
