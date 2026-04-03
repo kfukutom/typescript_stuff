@@ -1,0 +1,11 @@
+{
+    "devDependencies": {
+        "tsx": "^4.0.0"
+    },
+    "scripts": {
+        "start": "tsx 05-meta.tsx"
+    },
+    "dependencies": {
+        "zod": "^4.3.6"
+    }
+}
